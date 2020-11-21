@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Pandas**
 
-- 👨‍💻 All of my projects are available at [Xcompanygames.com](Xcompanygames.com)
+- 👨‍💻 All of my projects are available at (Xcompanygames.com)
 
 - 💬 Ask me about **Java, Python, C++, and game development**
 
