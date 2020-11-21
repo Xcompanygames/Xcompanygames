@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oriel</h1>
-<h3 align="center">A game developer and a student for mathematics and computer science</h3>
+<h3 align="center">A game developer and a Student for Mathematics and Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcompanygames&label=Profile%20views&color=0e75b6&style=flat" alt="xcompanygames" /> </p>
 
-- 🔭 I’m currently working on **RunaGate**
+- 🔭 I’m currently working on **RunaGate** (A game for Android)
 
 - 🌱 I’m currently learning **Python and Pandas**
 
