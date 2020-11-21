@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcompanygames&label=Profile%20views&color=0e75b6&style=flat" alt="xcompanygames" /> </p>
 
-- 🔭 I’m currently working on **RunaGate** (A game for Android)
 <img src="runagate.png" width="250">
 
+- 🔭 I’m currently working on **RunaGate** (A game for Android)
 
 - 🌱 I’m currently learning **Python and Pandas**
 
