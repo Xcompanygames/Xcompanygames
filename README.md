@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **RunaGate** (A game for Android)
 
-- 🌱 I’m currently learning **Python and Pandas**
+- 🌱 I’m currently learning **Python, Pandas and TensorFlow**
 
 - 👨‍💻 All of my commercial projects are available at [XCompanyGames](https://xcompanygames.com/)
 
