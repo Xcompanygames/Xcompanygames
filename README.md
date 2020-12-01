@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Pandas**
 
-- 👨‍💻 All of my commercial projects are available at www.XCompanyGames.com
+- 👨‍💻 All of my commercial projects are available at [XCompanyGames](https://xcompanygames.com/)
 
 - 💬 Ask me about **Java, Python, C++, and game development**
 
