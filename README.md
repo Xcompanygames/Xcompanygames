@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Python, C++, and game development**
 
-- 📫 How to reach me **Xcompanygames@gmail.com**
+- 📫 How to reach me:  professional mail: **Xcompanygames@gmail.com** , personal mail: **Orielpi@gmail.com**
 
 - 📄 Get my CV at the link: [CV site](https://xcompanygames.com/CV_Oriel/)
 
