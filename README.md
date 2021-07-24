@@ -23,9 +23,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xcompanygames&show_icons=true&locale=en&layout=compact" alt="Xcompanygames" /></p>
-
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Xcompanygames&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xcompanygames&layout=compact" />
