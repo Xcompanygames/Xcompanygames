@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oriel</h1>
-<h3 align="center">A game developer and with a graduate degree at Mathematics and Computer Science</h3>
+<h3 align="center">A game developer and with a graduate degree in Mathematics and Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcompanygames&label=Profile%20views&color=0e75b6&style=flat" alt="xcompanygames" /> </p>
 
