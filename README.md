@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **RunaGate** (A game for Android)
+- 🔭 I’m currently working on **RunaGate**
 
 - 🌱 I’m currently learning **Python, Pandas and TensorFlow**
 
