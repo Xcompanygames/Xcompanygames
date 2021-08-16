@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Oriel</h1>
-<h1 align="center">A Software developer and a Data scientist with a BSc in Mathematics and Computer Science</h1>
+
+<h2 align="center">A Software developer and a Data scientist with a BSc in Mathematics and Computer Science</h2>
 
 
 
