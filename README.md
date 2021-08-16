@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my commercial projects are available at [XCompanyGames](https://xcompanygames.com/)
 
-- 💬 Ask me about **Java, Python, C++, and game development**
+- 💬 Ask me about **Python, Java, C++, Data Science and Game Development**
 
 - 📫 How to reach me:  professional mail: **Xcompanygames@gmail.com** , personal mail: **Orielpi@gmail.com**
 
