@@ -1,4 +1,6 @@
-# [![oriel](logo.png)](logo.png)
+<p align="center">
+  <img src="logo.png" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Oriel</h1>
 <h3 align="center">A game developer and with a degree in Mathematics and Computer Science</h3>
