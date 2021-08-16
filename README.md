@@ -28,3 +28,6 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcompanygames&label=Profile%20views&color=0e75b6&style=flat" alt="xcompanygames" /> </p>
 
+<p align="center">
+  <img src="xcompanylogo.png" />
+</p>
