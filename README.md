@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **RunaGate**
+- 🔭 I’m currently working on **RunaGate**, develops in Godot Engine
 
 - 🌱 I’m currently learning **Python, Pandas and TensorFlow**
 
