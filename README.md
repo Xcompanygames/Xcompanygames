@@ -8,13 +8,13 @@
 
 
 
-- 🔭 I’m currently working on **RunaGate**, develops in Godot Engine
+- 🔭 I’m currently working on **RunaGate**, develops in **Godot Engine**
 
-- 🌱 I’m currently learning **Python, Pandas and TensorFlow**
+- 🌱 I’m currently learning **Deep Learning and Godot**
 
 - 👨‍💻 All of my commercial projects are available at [XCompanyGames](https://xcompanygames.com/)
 
-- 💬 Ask me about **Python, Java, C++, Data Science and Game Development**
+- 💬 Ask me about **Python, Data Science and Game Development**
 
 - 📫 How to reach me:  professional mail: **Xcompanygames@gmail.com** , personal mail: **Orielpi@gmail.com**
 
